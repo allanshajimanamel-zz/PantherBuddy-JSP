@@ -7,9 +7,9 @@ PantherBuddy was developed as a forum for collection of information on life and 
 The project was built using <b>Java and JSP</b>.<br>
 The backend database was implemented in <b>MySQL</b>.<br>
 We used <b>JUnit and Mockito</b> for our testing. We did the unit test, subsystem test and the system test for the project.<br>
-We used <b>"Bootstrap"</b> to make the application mobile device compatible.
+We used <b>Bootstrap</b> to make the application mobile device compatible.
 
-The project "PantherBuddyUML" contains the UML diagrams created during the requirements and design phase. It was done using the "Papyrus" plugin for eclipse.
+The project <b>PantherBuddyUML</b> contains the UML diagrams created during the requirements and design phase. It was done using the <b>Papyrus</b> plugin for eclipse. They can be viewed in the attached documents <b>SRD - PantherBuddy.pdf</b> and <b>Design Document.pdf</b>
 The code was generated from the class diagram and then worked upon.
 
 
