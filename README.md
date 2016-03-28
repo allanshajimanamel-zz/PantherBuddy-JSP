@@ -16,5 +16,5 @@ The code was generated from the class diagram and then worked upon.
 
 Other major Parts:<br></br>
 We use AES 128 bit encryption for password encryption. This module is used during login and user verification.<br></br>
-We configured a remote email server on wildfly server to get email session from JNDI. This is used to send the new password and to recover password for a user.
+We configured a remote email server on wildfly server to get email session from JNDI. This is used to send the new password and to recover password for a user.\n
 We created a filter to set header in data so that the back button is not allowed unless a user session is active.<br></br>
